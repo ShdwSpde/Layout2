@@ -1,0 +1,31 @@
+* {
+  box-sizing:  border-box;
+  text-align: center;
+}
+
+header,footer {
+  height: 100px;
+  border: 2px solid gray;
+  clear: both;
+}
+
+#one {
+  height: 200px;
+  width: 100%;
+  border: 2px solid gray;
+  float: left;
+}
+
+#two {
+  height: 300px;
+  width: 25%;
+  border: 2px solid gray;
+  float: left;
+}
+
+#three {
+  height: 300px;
+  width: 75%;
+  border: 2px solid gray;
+  float: left;
+}
